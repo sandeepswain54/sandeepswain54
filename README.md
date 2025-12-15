@@ -1,18 +1,11 @@
 # 🙋‍♂️ About Me:
-👨‍💻 Full-Stack Flutter Developer building scalable, production-ready apps
-
+👨‍💻 Full Stack Android App Developer building scalable, production-ready apps
 📱 Cross-platform development for Android, iOS, Web & Desktop
-
 🎨 Clean architecture & responsive UI/UX with performance optimization
-
 🔄 End-to-end app lifecycle (UI → Logic → Backend → Deployment)
-
 📦 Offline-first apps, REST APIs & real-time data handling
-
 🔥 Firebase & cloud backends integration
-
 🧠 Modern state management for predictable, scalable apps
-
 🌍 Passionate about solving real-world problems with efficient software
 
 
