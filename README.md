@@ -1,5 +1,15 @@
 # 💫 About Me:
-Mobile App Developer (Flutter & Android)<br>• Flutter • Dart • Firebase<br>• Android App Development<br>• REST APIs • Authentication<br>• Offline storage & state management<br>• Clean UI & scalable app architecture
+Full-Stack Flutter Developer building scalable, production-ready apps
+
+Cross-platform development for Android, iOS, Web & Desktop
+
+Focused on clean architecture, performance, and responsive UI/UX
+
+Experienced across the full app lifecycle (UI → Logic → Backend → Deployment)
+
+Skilled in offline-first design, APIs, real-time data & Firebase
+
+Passionate about solving real-world problems with secure, efficient software
 
 
 ## 🌐 Socials:
